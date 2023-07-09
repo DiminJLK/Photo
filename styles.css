@@ -28,3 +28,9 @@ margin-top: auto;
     margin-bottom: auto;
 }
 
+@media (max-width: 600px) {
+    body {
+      background-color: white;
+    }
+  }
+  
